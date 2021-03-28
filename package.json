@@ -1,0 +1,31 @@
+{
+    "name": "dark-side-theme",
+    "displayName": "Dark Side Theme",
+    "description": "Star Wars Sith Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "keywords":[
+        "Themes",
+        "Dark Themes",
+        "Star Wars",
+        "Darth Vader",
+        "Black",
+        "Red",
+        "Sith",
+        "Dark Side"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Side",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Side-color-theme.json"
+            }
+        ]
+    }
+}
