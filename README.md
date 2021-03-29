@@ -1,12 +1,14 @@
 &ensp;
 <div align="center">
 
-**Ｙｏｕ  ｄｏｎ＇ｔ  ｋｎｏｗ  ｔｈｅ  ｐｏｗｅｒ  ｏｆ  ｔｈｅ ｄａｒｋ  ｓｉｄｅ**
+<span style="color: #ca3e47;  font-weight: bold;">Ｙｏｕ  ｄｏｎ＇ｔ  ｋｎｏｗ  ｔｈｅ  ｐｏｗｅｒ  ｏｆ  ｔｈｅ ｄａｒｋ  ｓｉｄｅ</span>
+
 
 <img  src="https://64.media.tumblr.com/745c49571857450dd4698b07f3aba16f/tumblr_oy0zcpPgSY1w8mobyo4_540.gifv" alt="darthvader"/>
 
+&ensp;
 
-    info badges will be here soon...
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge) &ensp;  ![GitHub](https://img.shields.io/github/license/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge) &ensp; ![GitHub last commit](https://img.shields.io/github/last-commit/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge)
 
 <img  src="https://i.hizliresim.com/tr03WX.png" alt="logo"/>
 
