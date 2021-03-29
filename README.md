@@ -7,7 +7,7 @@
 
 &ensp;
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge) &ensp;  ![GitHub](https://img.shields.io/github/license/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge) &ensp; ![GitHub last commit](https://img.shields.io/github/last-commit/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge) &ensp;   &ensp; ![GitHub last commit](https://img.shields.io/github/last-commit/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge)
 
 <img  src="https://i.hizliresim.com/tr03WX.png" alt="logo"/>
 
