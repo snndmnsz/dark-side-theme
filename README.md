@@ -8,7 +8,7 @@
 
     info badges will be here soon...
 ![theme preview](https://i.hizliresim.com/eJEQYe.png)
-**Powered by evil 😈**
+**Powered by the evil 😈**
 
 </div>
 
