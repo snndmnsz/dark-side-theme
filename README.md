@@ -12,7 +12,7 @@
 <img  src="https://i.hizliresim.com/tr03WX.png" alt="logo"/>
 
 ![theme preview](https://i.hizliresim.com/eJEQYe.png)
-**unlimited  poweri  😈**
+**unlimited power 😈**
 
 </div>
 
