@@ -1,10 +1,15 @@
 {
     "name": "dark-side-theme",
     "displayName": "Dark Side Theme",
-    "description": "Star Wars Sith Theme",
-    "version": "0.0.1",
+    "description": "A dark vscode theme for Star Wars fans",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.46.0"
+    },
+    "publisher": "snndmnsz",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/snndmnsz/dark-side-theme"
     },
     "keywords":[
         "Themes",
