@@ -11,6 +11,8 @@
         "type":"git",
         "url":"https://github.com/snndmnsz/dark-side-theme"
     },
+    "icon": "icon.png",
+    "license": "MIT",
     "keywords":[
         "Themes",
         "Dark Themes",
