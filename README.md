@@ -7,6 +7,9 @@
 
 
     info badges will be here soon...
+
+<img  src="https://i.hizliresim.com/tr03WX.png" alt="logo"/>
+
 ![theme preview](https://i.hizliresim.com/eJEQYe.png)
 **Powered by the evil 😈**
 
@@ -41,5 +44,6 @@ This theme is released under the [MIT License](https://github.com/snndmnsz/dark-
 &ensp;
 
 **Designed by [snndmnsz](Https://Github.Com/Snndmnsz) with 🍌**
+
 
 </div>
