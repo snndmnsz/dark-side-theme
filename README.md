@@ -30,14 +30,14 @@
 
 
 ## Light Mode?
-This theme uses dark mode currently for minimal contrast and light mode(clone troopers mode) currently under consturation. Stand by for future updates.
+This theme currently uses dark mode for max contrast but I have other plans in light mode maybe I can make one theme in Clone trooper look. Wait for future updates.
 
 
 ## Contributing
-See something strange? Please report [here](Https://Github.Com/Snndmnsz). A screenshot would be great for clarification purposes. 
+See something strange? Please report [here](https://github.com/snndmnsz/dark-side-theme). A screenshot would be great for clarification purposes. 
 
 ## License
-This theme is released under the [MIT License](https://github.com/snndmnsz/dark-side-theme/master/license.md).
+This theme is released under the [MIT License](https://github.com/snndmnsz/dark-side-theme/blob/main/LICENSE).
 
 
 <div align="center">
