@@ -9,9 +9,9 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge) &ensp;  ![GitHub](https://img.shields.io/github/license/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge) &ensp; ![GitHub last commit](https://img.shields.io/github/last-commit/snndmnsz/dark-side-theme?color=%23ca3e47&style=for-the-badge)
 
-<img  src="https://i.hizliresim.com/tr03WX.png" alt="logo"/>
+<img  src="https://i.imgur.com/vHJu0ga.png" alt="logo"/>
 
-![theme preview](https://i.hizliresim.com/eJEQYe.png)
+![theme preview](https://i.imgur.com/NtmBOaT.png)
 **unlimited power 😈**
 
 </div>
