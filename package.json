@@ -2,7 +2,7 @@
     "name": "dark-side-theme",
     "displayName": "Dark Side Theme",
     "description": "A dark vscode theme for Star Wars fans",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "engines": {
         "vscode": "^1.46.0"
     },
